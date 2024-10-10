@@ -1,7 +1,6 @@
 /********* definitions.c ********
 	
 	Student Name 	= AYRA MENSAH
-	Student Number	= 101221911
 */
 
 // Your solution goes here

@@ -1,7 +1,6 @@
 /********* a1_data_structures.h ********
 	
 	Student Name 	= AYRA MENSAH
-	Student Number	= 101221911
 */
 
 /********** DON'T MODIFY **********/

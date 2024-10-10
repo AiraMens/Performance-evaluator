@@ -1,7 +1,6 @@
 /********* a1_functions.h ********
 	
 	Student Name 	= AYRA MENSAH
-	Student Number	= 101221911
 */
 
 /*
